@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  overflow-x: hidden;
+}
+body {
+  max-width: 1580px;
+  margin: 0 auto;
+  font-family: "Nunito Sans", sans-serif;
+  background-color: rgb(0, 0, 31);
+  color: white;
+  overflow-x: hidden;
+}
+.active {
+  color: rgb(82, 82, 216);
+}
+
+.btn-radial {
+  background: rgb(251, 63, 120);
+  background: radial-gradient(
+    circle,
+    rgba(251, 63, 120, 1) 0%,
+    rgba(146, 13, 207, 1) 100%
+  );
+}
+.bg-gradi {
+  background: rgb(5, 2, 41);
+  background: linear-gradient(
+    90deg,
+    rgba(5, 2, 41, 1) 0%,
+    rgba(20, 5, 85, 1) 50%,
+    rgba(9, 4, 42, 1) 100%
+  );
+}

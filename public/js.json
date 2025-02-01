@@ -1,0 +1,40 @@
+{
+    "id": 4,
+    "question_eng": "What is JavaScript?",
+    "question_ban": "জাভাস্ক্রিপ্ট কী?",
+  
+    "short_ans_eng": "JavaScript is a versatile programming language commonly used for creating interactive and dynamic web applications. It works with HTML and CSS to build modern, feature-rich websites.",
+    "short_ans_ban": "জাভাস্ক্রিপ্ট একটি বহুমুখী প্রোগ্রামিং ভাষা যা ইন্টারেকটিভ এবং গতিশীল ওয়েব অ্যাপ্লিকেশন তৈরিতে ব্যবহৃত হয়। এটি HTML এবং CSS এর সাথে কাজ করে আধুনিক ওয়েবসাইট তৈরি করতে।",
+  
+    "full_ans_eng": "JavaScript (JS) is a lightweight, interpreted programming language primarily used for creating dynamic and interactive content on web pages. Developed in 1995 by Brendan Eich, JavaScript has since become one of the most popular and essential languages for web development. It is a high-level, versatile language that works on both the client side and server side. When used on the client side, JavaScript interacts with HTML and CSS to create responsive and user-friendly web pages. For example, it can validate user input in forms, create animations, and handle real-time updates without refreshing the page. JavaScript supports multiple programming paradigms, including functional, object-oriented, and event-driven programming, making it suitable for a wide range of applications. The language runs on all modern browsers using the built-in JavaScript engine, such as V8 in Google Chrome. One of the key features of JavaScript is its ability to manipulate the DOM (Document Object Model), which allows developers to dynamically change content, structure, and styles on a webpage. JavaScript is asynchronous by nature, meaning it can handle multiple tasks simultaneously, such as fetching data from a server while the user continues interacting with the page. This is achieved using techniques like callbacks, promises, and async/await. Modern JavaScript frameworks and libraries, such as React, Angular, and Vue.js, have further simplified web development by providing reusable components and efficient state management. On the server side, JavaScript is powered by Node.js, a runtime environment that enables developers to build scalable network applications. JavaScript also supports JSON (JavaScript Object Notation), a lightweight data-interchange format widely used in APIs. The introduction of ES6 (ECMAScript 2015) brought significant enhancements to JavaScript, such as arrow functions, classes, template literals, and destructuring. JavaScript is not limited to web development; it is also used in mobile app development (React Native), desktop apps (Electron), and game development (Phaser). The language has a large community and extensive resources, making it beginner-friendly and continuously evolving. JavaScript frameworks like Next.js and Nuxt.js enable server-side rendering, improving website performance and SEO. Despite its simplicity, JavaScript has advanced features like closures, prototypal inheritance, and event loops, which make it powerful for complex applications. It is supported by various tools and IDEs, such as Visual Studio Code, which provide debugging and code linting features. JavaScript has its challenges, such as cross-browser compatibility and security issues, but best practices and modern tools help address these problems. With WebAssembly, JavaScript can now interact with other languages like C++ for high-performance tasks. JavaScript enables animations and visual effects using libraries like GSAP and Three.js, enhancing user experiences. It plays a crucial role in creating Progressive Web Apps (PWAs), which offer app-like experiences in browsers. JavaScript's event-driven nature allows it to handle user interactions, such as clicks, hovers, and keypresses, efficiently. By combining JavaScript with APIs, developers can integrate third-party services like payment gateways, maps, and social media into their websites. JavaScript's modularity, achieved through imports and exports, ensures code reusability and maintainability. Tools like Babel allow developers to use the latest JavaScript features while ensuring compatibility with older browsers. JavaScript is essential for real-time applications like chat apps and collaborative tools, powered by WebSockets. It also supports geolocation, enabling developers to build location-based services. JavaScript is continuously improving, with features like optional chaining and nullish coalescing making code more concise and readable. Testing frameworks like Jest and Mocha ensure robust and error-free JavaScript applications. JavaScript's simplicity and flexibility have made it an indispensable language for developers worldwide. It bridges the gap between static content and interactive experiences, enabling developers to bring their creative ideas to life. In conclusion, JavaScript is a cornerstone of modern web development. It empowers developers to create everything from simple websites to complex applications, ensuring a seamless and engaging user experience. Its versatility, community support, and continuous evolution make it a must-learn language for anyone entering the tech world.",
+  
+    "full_ans_ban": "জাভাস্ক্রিপ্ট (JS) একটি লাইটওয়েট, ইন্টারপ্রেটেড প্রোগ্রামিং ভাষা যা প্রধানত ওয়েবপেজে গতিশীল এবং ইন্টারেকটিভ কন্টেন্ট তৈরিতে ব্যবহৃত হয়। ১৯৯৫ সালে ব্রেন্ডন আইচ দ্বারা তৈরি, জাভাস্ক্রিপ্ট আজকের দিনে ওয়েব ডেভেলপমেন্টের অন্যতম জনপ্রিয় এবং গুরুত্বপূর্ণ ভাষায় পরিণত হয়েছে। এটি একটি উচ্চ-স্তরের, বহুমুখী ভাষা যা ক্লায়েন্ট এবং সার্ভার উভয় দিকে কাজ করতে পারে। ক্লায়েন্ট সাইডে ব্যবহৃত হলে, এটি HTML এবং CSS এর সাথে কাজ করে রেসপন্সিভ এবং ব্যবহারকারী-বান্ধব ওয়েবপেজ তৈরি করে। উদাহরণস্বরূপ, এটি ফর্মের ব্যবহারকারী ইনপুট যাচাই করতে, অ্যানিমেশন তৈরি করতে এবং পৃষ্ঠা রিফ্রেশ না করেই রিয়েল-টাইম আপডেট পরিচালনা করতে পারে। জাভাস্ক্রিপ্ট বিভিন্ন প্রোগ্রামিং পদ্ধতি সমর্থন করে, যেমন ফাংশনাল, অবজেক্ট-ওরিয়েন্টেড এবং ইভেন্ট-ড্রিভেন প্রোগ্রামিং। ভাষাটি সমস্ত আধুনিক ব্রাউজারে বিল্ট-ইন জাভাস্ক্রিপ্ট ইঞ্জিন, যেমন গুগল ক্রোমের V8, ব্যবহার করে চলে। জাভাস্ক্রিপ্টের অন্যতম প্রধান বৈশিষ্ট্য হলো DOM (Document Object Model) ম্যানিপুলেশন করার ক্ষমতা, যা ডেভেলপারদের ওয়েবপেজের কন্টেন্ট, স্ট্রাকচার এবং স্টাইল গতিশীলভাবে পরিবর্তন করতে দেয়। জাভাস্ক্রিপ্ট অ্যাসিঙ্ক্রোনাস প্রকৃতির, অর্থাৎ এটি একাধিক কাজ একসাথে করতে পারে, যেমন সার্ভার থেকে ডেটা আনা এবং একই সময়ে ব্যবহারকারী ইন্টারঅ্যাকশন পরিচালনা করা। এটি কলব্যাক, প্রমিস এবং অ্যাসিঙ্ক/অ্যাওয়েট ব্যবহার করে সম্ভব হয়। React, Angular, এবং Vue.js এর মতো আধুনিক ফ্রেমওয়ার্ক ও লাইব্রেরি ওয়েব ডেভেলপমেন্টকে সহজতর করেছে। সার্ভার সাইডে, Node.js জাভাস্ক্রিপ্ট চালিত করে, যা ডেভেলপারদের স্কেলেবল নেটওয়ার্ক অ্যাপ্লিকেশন তৈরি করতে দেয়। JSON (JavaScript Object Notation) একটি ডেটা-ইন্টারচেঞ্জ ফরম্যাট যা API তে ব্যাপকভাবে ব্যবহৃত হয়। ES6 (ECMAScript 2015) জাভাস্ক্রিপ্টে উল্লেখযোগ্য উন্নতি এনেছে, যেমন অ্যারো ফাংশন, ক্লাস, টেমপ্লেট লিটারাল এবং ডেস্ট্রাকচারিং। মোবাইল অ্যাপ ডেভেলপমেন্ট (React Native), ডেস্কটপ অ্যাপস (Electron), এবং গেম ডেভেলপমেন্ট (Phaser)-এও জাভাস্ক্রিপ্ট ব্যবহৃত হয়। জাভাস্ক্রিপ্ট ওয়েব অ্যাপ, PWA এবং ইন্টারেকটিভ ইউজার এক্সপেরিয়েন্সের জন্য অপরিহার্য।",
+  
+    "imgs": [
+      "https://i.ibb.co.com/LYZzGmH/jjjj.gif",
+      "https://i.ibb.co.com/M1htFcd/jjj.jpg",
+      "https://i.ibb.co.com/HqJSVz0/jsss.jpg",
+      "https://i.ibb.co.com/vz9Vqy8/js.jpg"
+    ],
+  
+    "example_eng": {
+      "example_1": "Displaying an alert message using `alert('Hello, World!')`.",
+      "example_2": "Creating a button click event listener with `document.querySelector`."
+    },
+  
+    "example_ban": {
+      "example_1": "`alert('Hello, World!')` ব্যবহার করে একটি এলার্ট মেসেজ দেখানো।",
+      "example_2": "`document.querySelector` ব্যবহার করে একটি বাটন ক্লিক ইভেন্ট লিসেনার তৈরি করা।"
+    },
+  
+    "related_q_eng": [
+      "What is the DOM in JavaScript?",
+      "What is the difference between var, let, and const in JavaScript?"
+    ],
+  
+    "related_q_ban": [
+      "জাভাস্ক্রিপ্টে DOM কী?",
+      "জাভাস্ক্রিপ্টে var, let এবং const এর মধ্যে পার্থক্য কী?"
+    ]
+  }
+  

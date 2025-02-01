@@ -1,0 +1,39 @@
+{
+    "id": 2,
+    "question_eng": "What is HTML?",
+    "question_ban": "HTML কী?",
+  
+    "short_ans_eng": "HTML (HyperText Markup Language) is the standard markup language used to create web pages and web applications.",
+    "short_ans_ban": "HTML (হাইপারটেক্সট মার্কআপ ল্যাঙ্গুয়েজ) হলো ওয়েব পেজ এবং ওয়েব অ্যাপ্লিকেশন তৈরি করার জন্য ব্যবহৃত একটি মানক মার্কআপ ভাষা।",
+  
+    "full_ans_eng": "HTML, or HyperText Markup Language, is the foundation of web development and the primary tool used to create web pages. It provides the basic structure of a website, which is then styled using CSS (Cascading Style Sheets) and made interactive with JavaScript. HTML is not a programming language but a markup language that uses elements, represented by tags, to structure and format content. The <html> tag is the root of an HTML document, and the <head> section typically includes metadata, links to stylesheets, and scripts. The <body> section contains the visible content of the page, such as headings, paragraphs, images, videos, and links. Developed by Tim Berners-Lee in 1991, HTML has grown through several iterations, with HTML5 being the latest version. HTML5 introduced many new features, such as semantic tags (<header>, <footer>, <article>, <section>), multimedia support (e.g., <video>, <audio>), and APIs for geolocation, offline storage, and more. It is a platform-independent language, meaning that HTML code can run on any device or operating system with a browser. HTML plays a crucial role in enabling web browsers to render and display content correctly. It allows developers to create forms for user input, tables for structured data, and even responsive designs when combined with CSS frameworks. Furthermore, HTML is compatible with JavaScript libraries, enabling the creation of dynamic and interactive web applications. Over the years, HTML has supported various enhancements, such as SVG for scalable graphics and the canvas element for drawing graphics and animations. Web accessibility standards, like ARIA, also integrate seamlessly with HTML, ensuring inclusive designs for users with disabilities. One of HTML's strengths is its simplicity and readability, making it a beginner-friendly language for anyone entering web development. However, HTML by itself is static; dynamic and advanced functionality requires backend technologies like PHP, Python, or Node.js. Despite its limitations, HTML remains an indispensable part of the modern internet. It powers everything from simple personal blogs to complex enterprise-level websites. Developers worldwide rely on HTML because it is universally supported and continuously evolving to meet the needs of modern web applications. It serves as the canvas on which other technologies build, forming the backbone of front-end development. For example, a simple HTML file can contain text, links, images, and even embedded videos with minimal effort. Moreover, frameworks like Bootstrap use HTML as their foundation, providing pre-designed components for rapid development. HTML's role extends beyond websites—it is used in hybrid mobile applications and email templates as well. Learning HTML is often the first step in understanding web development, as it lays the groundwork for more advanced concepts. Tools like code editors and browser developer tools make working with HTML efficient and straightforward. HTML remains relevant and essential, no matter how advanced the web becomes. It supports internationalization and localization, enabling websites to cater to diverse audiences. Search engines depend on properly structured HTML to understand and index web content, making it vital for SEO (Search Engine Optimization). The evolution of HTML has aligned with the growth of the internet, ensuring compatibility with modern devices and technologies. In summary, HTML is the cornerstone of web development, serving as the fundamental building block for creating visually engaging and functional websites.",
+  
+    "full_ans_ban": "HTML বা হাইপারটেক্সট মার্কআপ ল্যাঙ্গুয়েজ হলো ওয়েব ডেভেলপমেন্টের ভিত্তি এবং ওয়েবপেজ তৈরির প্রধান উপকরণ। এটি একটি ওয়েবসাইটের প্রাথমিক কাঠামো সরবরাহ করে, যা CSS (স্টাইলিংয়ের জন্য) এবং JavaScript (ইন্টারঅ্যাক্টিভিটির জন্য) ব্যবহার করে উন্নত করা হয়। HTML একটি প্রোগ্রামিং ভাষা নয় বরং একটি মার্কআপ ভাষা, যা ট্যাগের মাধ্যমে উপাদান তৈরি ও বিন্যস্ত করে। একটি HTML ডকুমেন্টের মূল ট্যাগ হলো <html>, এবং <head> সেকশনে সাধারণত মেটাডাটা, স্টাইলশিটের লিঙ্ক এবং স্ক্রিপ্ট থাকে। <body> সেকশনটিতে পৃষ্ঠার দৃশ্যমান কনটেন্ট থাকে, যেমন শিরোনাম, অনুচ্ছেদ, ছবি, ভিডিও এবং লিঙ্ক। HTML প্রথম টিম বার্নার্স-লী ১৯৯১ সালে তৈরি করেছিলেন, এবং এটি বিভিন্ন সংস্করণের মধ্য দিয়ে উন্নত হয়েছে, যার মধ্যে HTML5 সর্বশেষ। HTML5 অনেক নতুন ফিচার নিয়ে এসেছে, যেমন সেমান্টিক ট্যাগ (<header>, <footer>, <article>, <section>), মাল্টিমিডিয়া সাপোর্ট (যেমন <video>, <audio>) এবং জিওলোকেশন ও অফলাইন স্টোরেজের জন্য API। এটি একটি প্ল্যাটফর্ম-স্বাধীন ভাষা, অর্থাৎ HTML কোড যেকোনো ডিভাইস বা অপারেটিং সিস্টেমে চলতে পারে। HTML ওয়েব ব্রাউজারগুলিকে সঠিকভাবে কনটেন্ট রেন্ডার এবং প্রদর্শন করতে সক্ষম করে। এটি ব্যবহার করে ডেভেলপাররা ইউজার ইনপুটের জন্য ফর্ম, টেবিল, এমনকি CSS ফ্রেমওয়ার্কের মাধ্যমে রেসপন্সিভ ডিজাইন তৈরি করতে পারে। HTML-এ SVG এবং ক্যানভাস উপাদান গ্রাফিক্স ও অ্যানিমেশন তৈরি করতে ব্যবহার করা হয়। ওয়েব অ্যাক্সেসিবিলিটি স্ট্যান্ডার্ড, যেমন ARIA, HTML-এর সাথে একত্রে কাজ করে, যা প্রতিবন্ধী ব্যক্তিদের জন্য অন্তর্ভুক্তিমূলক ডিজাইন নিশ্চিত করে। HTML-এর একটি বড় সুবিধা হলো এর সরলতা এবং সহজবোধ্যতা, যা এটি নবাগতদের জন্য একটি আদর্শ ভাষা হিসেবে গড়ে তুলেছে। তবে, HTML নিজে থেকেই স্ট্যাটিক; গতিশীল এবং উন্নত কার্যকারিতা পেতে ব্যাকএন্ড প্রযুক্তি প্রয়োজন। সীমাবদ্ধতা থাকা সত্ত্বেও, HTML আধুনিক ইন্টারনেটের একটি অপরিহার্য অংশ রয়ে গেছে। এটি সহজ ব্লগ থেকে জটিল এন্টারপ্রাইজ লেভেলের ওয়েবসাইট পর্যন্ত সবকিছুকে শক্তি জোগায়। উদাহরণস্বরূপ, একটি সহজ HTML ফাইলের মাধ্যমে পাঠ্য, লিঙ্ক, ছবি, এবং ভিডিও এম্বেড করা যায়। HTML শিখলে ওয়েব ডেভেলপমেন্টের অন্যান্য জটিল বিষয় বুঝতে সহজ হয়। সার্চ ইঞ্জিন HTML ব্যবহার করে ওয়েব কনটেন্ট বোঝে এবং ইনডেক্স করে, যা SEO-এর জন্য গুরুত্বপূর্ণ। HTML-এর বিবর্তন ইন্টারনেটের বৃদ্ধির সাথে সঙ্গতিপূর্ণ, যা আধুনিক ডিভাইস এবং প্রযুক্তির সাথে সামঞ্জস্যপূর্ণ। সংক্ষেপে, HTML হলো ওয়েব ডেভেলপমেন্টের মেরুদণ্ড, যা কার্যকরী ওয়েবসাইট তৈরির জন্য মূলভিত্তি হিসেবে কাজ করে।",
+  
+    "imgs": [
+      "https://i.ibb.co.com/8rS9LN7/hhh.jpg",
+      "https://i.ibb.co.com/1bV00QL/html1.jpg",
+      "https://i.ibb.co.com/FX10jWH/htmlll.jpg"
+    ],
+  
+    "example_eng": {
+      "example_1": "Creating a basic webpage structure using <html>, <head>, and <body> tags.",
+      "example_2": "Adding a hyperlink to a webpage using the <a> tag."
+    },
+  
+    "example_ban": {
+      "example_1": "<html>, <head>, এবং <body> ট্যাগ ব্যবহার করে একটি মৌলিক ওয়েবপেজের কাঠামো তৈরি করা।",
+      "example_2": "<a> ট্যাগ ব্যবহার করে একটি ওয়েবপেজে একটি হাইপারলিঙ্ক যোগ করা।"
+    },
+  
+    "related_q_eng": [
+      "What are HTML tags?",
+      "How do you create a form in HTML?"
+    ],
+  
+    "related_q_ban": [
+      "HTML ট্যাগ কী?",
+      "HTML-এ একটি ফর্ম কীভাবে তৈরি করবেন?"
+    ]
+  }
+  

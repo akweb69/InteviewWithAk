@@ -1,0 +1,30 @@
+{
+    "id": 3,
+    "question_eng": "What is npm?",
+    "question_ban": "npm কী?",
+    "short_ans_eng": "npm (Node Package Manager) is a tool used to manage JavaScript packages. It helps developers to install, update, and share code libraries efficiently.",
+    "short_ans_ban": "npm (Node Package Manager) হল একটি টুল যা জাভাস্ক্রিপ্ট প্যাকেজ ব্যবস্থাপনার জন্য ব্যবহৃত হয়। এটি ডেভেলপারদের কোড লাইব্রেরি ইনস্টল, আপডেট এবং শেয়ার করতে সহায়তা করে।",
+    "full_ans_eng": "npm, which stands for Node Package Manager, is a package manager for JavaScript programming. It comes bundled with Node.js and allows developers to discover, install, and publish reusable code packages. These packages can include libraries, frameworks, tools, or modules that simplify the development process. npm also provides a command-line interface (CLI) for interacting with the npm registry, where thousands of open-source packages are hosted. Additionally, npm helps manage project dependencies, making it easier to ensure compatibility between packages and streamline project workflows. With its vast ecosystem and robust tools, npm has become a cornerstone of modern JavaScript development.",
+    "full_ans_ban": "npm, যার পুরো নাম Node Package Manager, জাভাস্ক্রিপ্ট প্রোগ্রামিংয়ের জন্য একটি প্যাকেজ ম্যানেজার। এটি Node.js এর সাথে অন্তর্ভুক্ত থাকে এবং ডেভেলপারদের পুনঃব্যবহারযোগ্য কোড প্যাকেজ আবিষ্কার, ইনস্টল এবং প্রকাশ করতে সাহায্য করে। এই প্যাকেজগুলির মধ্যে লাইব্রেরি, ফ্রেমওয়ার্ক, টুল বা মডিউল অন্তর্ভুক্ত থাকতে পারে যা ডেভেলপমেন্ট প্রক্রিয়াকে সহজ করে। npm একটি কমান্ড-লাইন ইন্টারফেস (CLI) প্রদান করে যার মাধ্যমে npm রেজিস্ট্রির সাথে ইন্টারঅ্যাক্ট করা যায়, যেখানে হাজার হাজার ওপেন-সোর্স প্যাকেজ হোস্ট করা থাকে। npm প্রকল্প নির্ভরতা পরিচালনা করে, যা প্যাকেজগুলির মধ্যে সামঞ্জস্য নিশ্চিত করা এবং প্রকল্পের কাজকে সহজতর করে। এর বিশাল ইকোসিস্টেম এবং শক্তিশালী টুলের কারণে, npm আধুনিক জাভাস্ক্রিপ্ট ডেভেলপমেন্টের একটি গুরুত্বপূর্ণ অংশ হয়ে উঠেছে।",
+    "imgs": [
+      "https://i.ibb.co.com/vHW4zp6/npmm.webp",
+      "https://i.ibb.co.com/gJw7Vdx/npm.png"
+    ],
+    "example_eng": {
+      "example_1": "Installing a package with npm: `npm install express`.",
+      "example_2": "Initializing a project with npm: `npm init`."
+    },
+    "example_ban": {
+      "example_1": "npm দিয়ে একটি প্যাকেজ ইনস্টল করা: `npm install express`।",
+      "example_2": "npm দিয়ে একটি প্রকল্প ইনিশিয়ালাইজ করা: `npm init`।"
+    },
+    "related_q_eng": [
+      "What is the difference between npm and yarn?",
+      "How does npm work?"
+    ],
+    "related_q_ban": [
+      "npm এবং yarn এর মধ্যে পার্থক্য কী?",
+      "npm কীভাবে কাজ করে?"
+    ]
+  }
+  

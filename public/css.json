@@ -1,0 +1,39 @@
+{
+    "id": 3,
+    "question_eng": "What is CSS?",
+    "question_ban": "CSS কী?",
+  
+    "short_ans_eng": "CSS (Cascading Style Sheets) is a stylesheet language used to control the presentation and design of web pages, including layout, colors, fonts, and more.",
+    "short_ans_ban": "CSS (ক্যাসকেডিং স্টাইল শিটস) হলো একটি স্টাইলশিট ভাষা যা ওয়েবপেজের ডিজাইন এবং বিন্যাস নিয়ন্ত্রণ করতে ব্যবহৃত হয়, যেমন রং, ফন্ট, এবং লেআউট।",
+  
+    "full_ans_eng": "CSS, or Cascading Style Sheets, is a fundamental language in web development used to style and design web pages. It works alongside HTML, which provides the structure, to enhance the appearance of web pages. CSS allows developers to apply styles such as colors, fonts, margins, borders, and spacing to HTML elements. Introduced in the mid-1990s by the W3C, CSS revolutionized web design by separating content from presentation. This separation makes websites easier to maintain, as developers can modify the design without altering the HTML code. CSS has three types: inline, internal, and external. Inline CSS applies styles directly within an HTML element using the 'style' attribute. Internal CSS is written within a <style> tag in the <head> section of the HTML document. External CSS, the most commonly used type, is written in separate files with a '.css' extension and linked to the HTML file using the <link> tag. CSS is highly versatile and supports selectors, which target specific HTML elements to apply styles. It also includes pseudo-classes and pseudo-elements for advanced styling. With CSS, developers can create responsive designs using media queries to ensure websites look good on devices of all sizes. CSS3, the latest version, introduced features like animations, transitions, gradients, and new layout modules such as Flexbox and Grid. These features make it possible to build complex and visually appealing designs. CSS allows web developers to control the overall layout of a webpage, including positioning elements using properties like float, position, and display. It supports various units, such as pixels, percentages, and ems, to define measurements. Variables in CSS simplify the process of reusing styles across a project, making the code more efficient and manageable. In addition to aesthetics, CSS contributes to accessibility by ensuring proper contrast and readability. It also improves user experience by enabling faster loading times, as styles can be cached separately from the HTML. CSS frameworks like Bootstrap, Tailwind CSS, and Bulma have further simplified styling by providing pre-designed components and utilities. These frameworks reduce development time and ensure consistent design across projects. Despite its simplicity, mastering CSS can be challenging due to browser compatibility issues. However, tools like browser developer tools and preprocessors like SASS and LESS make it easier to work with CSS. SASS and LESS add features like nesting, variables, and functions, which extend CSS's capabilities. Another key aspect of CSS is its cascading nature, where styles are applied based on specificity and order. This feature ensures flexibility and control over the final design. CSS also supports 3D transformations and complex keyframe animations, allowing developers to create interactive experiences. It enables the creation of themes, where a single stylesheet can change the look and feel of an entire website. CSS is not limited to web design—it is also used in email templates, mobile app styling with frameworks like React Native, and even for styling PDF documents. Learning CSS is essential for anyone pursuing web development, as it forms the basis for creating visually engaging and professional websites. The use of CSS is not just about aesthetics; it also affects functionality, such as creating hover effects for buttons or dropdown menus. CSS has evolved significantly, with modern features like custom properties and grid layouts transforming how developers approach web design. In conclusion, CSS is a powerful and indispensable tool for web development. It bridges the gap between structure and design, allowing developers to create websites that are not only functional but also visually appealing. The language continues to evolve, keeping pace with modern design trends and technological advancements. Whether for small personal projects or large-scale web applications, CSS remains an essential part of the web development ecosystem. It empowers developers to bring their creative visions to life while ensuring usability and responsiveness. The cascading nature of CSS ensures modularity and reusability, making it a cornerstone of front-end development. With CSS, web developers have the tools to craft unique, dynamic, and accessible websites that meet the needs of users across the globe.",
+  
+    "full_ans_ban": "CSS বা ক্যাসকেডিং স্টাইল শিটস হলো ওয়েব ডেভেলপমেন্টের একটি মৌলিক ভাষা যা ওয়েবপেজ ডিজাইন এবং স্টাইলিং করতে ব্যবহৃত হয়। এটি HTML-এর সাথে কাজ করে, যা ওয়েবপেজের কাঠামো সরবরাহ করে, এবং CSS সেই কাঠামোকে আরও আকর্ষণীয় করে তোলে। CSS ব্যবহার করে ডেভেলপাররা HTML উপাদানগুলিতে রঙ, ফন্ট, মার্জিন, বর্ডার এবং স্পেসিং প্রয়োগ করতে পারে। এটি ১৯৯০-এর দশকের মাঝামাঝি সময়ে W3C দ্বারা প্রবর্তিত হয় এবং এটি ডিজাইন এবং বিষয়বস্তুর পৃথকীকরণের মাধ্যমে ওয়েব ডিজাইনে বিপ্লব ঘটায়। CSS-এর তিনটি প্রকার রয়েছে: ইনলাইন, ইন্টারনাল এবং এক্সটারনাল। ইনলাইন CSS সরাসরি HTML উপাদানের 'style' অ্যাট্রিবিউটের মাধ্যমে প্রয়োগ করা হয়। ইন্টারনাল CSS <style> ট্যাগের মধ্যে <head> সেকশনে লেখা হয়। এক্সটারনাল CSS একটি আলাদা '.css' ফাইলে লেখা হয় এবং <link> ট্যাগের মাধ্যমে HTML ফাইলে যুক্ত হয়। CSS3 এর সর্বশেষ সংস্করণে অ্যানিমেশন, ট্রানজিশন, গ্রেডিয়েন্ট এবং ফ্লেক্সবক্স ও গ্রিডের মতো নতুন লেআউট মডিউল রয়েছে। এটি ওয়েবসাইটকে রেসপন্সিভ ডিজাইন দিতে মিডিয়া কুয়েরি সমর্থন করে। CSS সিলেক্টর ব্যবহার করে নির্দিষ্ট HTML উপাদানগুলিকে লক্ষ্য করে স্টাইল প্রয়োগ করা যায়। এটি ভেরিয়েবল এবং প্রিপ্রসেসর যেমন SASS বা LESS ব্যবহার করে কোড পুনর্ব্যবহারযোগ্য করে তোলে। CSS-এর ক্যাসকেডিং বৈশিষ্ট্য স্টাইলগুলির জন্য নমনীয়তা এবং নিয়ন্ত্রণ নিশ্চিত করে। CSS শুধু ওয়েব ডিজাইনের মধ্যেই সীমাবদ্ধ নয়; এটি ইমেইল টেমপ্লেট, মোবাইল অ্যাপ স্টাইলিং এবং এমনকি PDF ডিজাইনের জন্যও ব্যবহৃত হয়। CSS-এর মাধ্যমে তৈরি সাইটগুলি দ্রুত লোড হয় কারণ স্টাইল আলাদাভাবে ক্যাশ করা যায়। CSS শেখা প্রত্যেক ওয়েব ডেভেলপারের জন্য অপরিহার্য কারণ এটি ওয়েবসাইটকে পেশাদার এবং ব্যবহারকারী-বান্ধব করতে সাহায্য করে।",
+  
+    "imgs": [
+      "https://i.ibb.co.com/QPgQTNS/csss.webp",
+      "https://i.ibb.co.com/8NrNPWJ/css.jpg",
+      "https://i.ibb.co.com/d6d8yZY/css.jpg"
+    ],
+  
+    "example_eng": {
+      "example_1": "Changing the background color of a webpage using the 'background-color' property.",
+      "example_2": "Centering a div element on the page using Flexbox."
+    },
+  
+    "example_ban": {
+      "example_1": "'background-color' প্রপার্টি ব্যবহার করে একটি ওয়েবপেজের ব্যাকগ্রাউন্ড রঙ পরিবর্তন করা।",
+      "example_2": "Flexbox ব্যবহার করে একটি div উপাদান পৃষ্ঠায় কেন্দ্রীভূত করা।"
+    },
+  
+    "related_q_eng": [
+      "What are CSS selectors?",
+      "What is the difference between CSS Grid and Flexbox?"
+    ],
+  
+    "related_q_ban": [
+      "CSS সিলেক্টর কী?",
+      "CSS গ্রিড এবং ফ্লেক্সবক্সের মধ্যে পার্থক্য কী?"
+    ]
+  }
+  

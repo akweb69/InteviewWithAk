@@ -1,0 +1,41 @@
+{
+    "id": 1,
+    "question_eng": "What is the internet?",
+    "question_ban": "ইন্টারনেট কী?",
+  
+    "short_ans_eng": "The internet is a global network that connects millions of private, public, academic, business, and government networks. It allows users to access and share information worldwide.",
+    "short_ans_ban": "ইন্টারনেট একটি বৈশ্বিক নেটওয়ার্ক যা ব্যক্তিগত, সরকারি এবং ব্যবসায়িক নেটওয়ার্কগুলিকে সংযুক্ত করে। এটি ব্যবহারকারীদের সারা বিশ্বে তথ্য শেয়ার করতে দেয়।",
+  
+    "full_ans_eng": "The internet is a vast global system of interconnected computer networks that communicate using the standard Internet Protocol Suite (TCP/IP). It began in the late 20th century and has since grown into a vital part of modern life, connecting billions of devices worldwide. The internet enables people to communicate, share information, and access countless resources such as websites, videos, online games, and social media. Businesses rely on the internet for advertising, e-commerce, and communication. Governments and educational institutions use it for collaboration and sharing research. The internet provides a platform for innovation, such as the development of artificial intelligence and cloud computing. It supports multimedia applications, enabling users to stream videos and listen to music. The internet also makes remote work and online education possible. However, it has its challenges, including cybersecurity threats and misinformation. Despite these issues, the internet continues to evolve, with faster speeds and wider coverage making it accessible to more people around the world.",
+    
+    "full_ans_ban": "ইন্টারনেট হল একটি বিশাল বৈশ্বিক সিস্টেম যেখানে কম্পিউটার নেটওয়ার্কগুলি পরস্পরের সাথে যুক্ত থাকে এবং স্ট্যান্ডার্ড ইন্টারনেট প্রোটোকল (TCP/IP) ব্যবহার করে যোগাযোগ করে। এটি বিংশ শতাব্দীর শেষের দিকে শুরু হয়েছিল এবং আজকের আধুনিক জীবনের একটি অপরিহার্য অংশে পরিণত হয়েছে। ইন্টারনেটের মাধ্যমে মানুষ যোগাযোগ করতে, তথ্য শেয়ার করতে এবং ওয়েবসাইট, ভিডিও, অনলাইন গেম এবং সোশ্যাল মিডিয়া অ্যাক্সেস করতে পারে। ব্যবসায়ীরা বিজ্ঞাপন, ই-কমার্স এবং যোগাযোগের জন্য ইন্টারনেটের উপর নির্ভর করে। সরকার এবং শিক্ষাপ্রতিষ্ঠান গবেষণা শেয়ার এবং সহযোগিতার জন্য এটি ব্যবহার করে। এটি কৃত্রিম বুদ্ধিমত্তা এবং ক্লাউড কম্পিউটিংয়ের মতো উদ্ভাবনের জন্য একটি প্ল্যাটফর্ম সরবরাহ করে। ইন্টারনেট মাল্টিমিডিয়া অ্যাপ্লিকেশনকে সমর্থন করে, যা ব্যবহারকারীদের ভিডিও স্ট্রিম এবং সংগীত শুনতে সক্ষম করে। এটি দূরবর্তী কাজ এবং অনলাইন শিক্ষা সম্ভব করে তোলে। তবে, এর সাইবার নিরাপত্তা হুমকি এবং ভুল তথ্যের মতো চ্যালেঞ্জও রয়েছে। এই সমস্যাগুলি সত্ত্বেও, ইন্টারনেট আরও উন্নত হয়েছে এবং দ্রুত গতির মাধ্যমে আরও বেশি মানুষের কাছে পৌঁছাতে সক্ষম।",
+  
+    "imgs": 
+      [
+      "https://i.ibb.co.com/BLDkgBx/iii.gif",
+       "https://i.ibb.co.com/cJ0b77t/Internet.jpg"
+      ]
+       
+    ,
+  
+    "example_eng": {
+      "example_1": "Using the internet to search for information on Google.",
+      "example_2": "Streaming videos on platforms like YouTube or Netflix."
+    },
+  
+    "example_ban": {
+      "example_1": "গুগলে তথ্য খোঁজার জন্য ইন্টারনেট ব্যবহার করা।",
+      "example_2": "ইউটিউব বা নেটফ্লিক্সে ভিডিও স্ট্রিমিং করা।"
+    },
+  
+    "related_q_eng": [
+      "What is the history of the internet?",
+      "How does the internet work?"
+    ],
+  
+    "related_q_ban": [
+      "ইন্টারনেটের ইতিহাস কী?",
+      "ইন্টারনেট কীভাবে কাজ করে?"
+    ]
+  }
+  

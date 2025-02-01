@@ -1,0 +1,30 @@
+{
+    "id": 2,
+    "question_eng": "What is Firebase?",
+    "question_ban": "ফায়ারবেস কী?",
+    "short_ans_eng": "Firebase is a platform developed by Google for building and managing web and mobile applications. It provides tools for databases, authentication, hosting, and more.",
+    "short_ans_ban": "ফায়ারবেস গুগল দ্বারা উন্নত একটি প্ল্যাটফর্ম যা ওয়েব এবং মোবাইল অ্যাপ তৈরি এবং পরিচালনার জন্য সরঞ্জাম সরবরাহ করে। এটি ডাটাবেস, প্রমাণীকরণ, হোস্টিং ইত্যাদির জন্য সমাধান দেয়।",
+    "full_ans_eng": "Firebase is a comprehensive app development platform developed by Google. It offers a variety of tools and services to help developers build high-quality apps faster and with less effort. Firebase includes features like a Realtime Database and Firestore for storing and syncing data, Authentication for user management, Hosting for deploying web apps, and Cloud Functions for running backend code. Additionally, it provides analytics, performance monitoring, and crash reporting tools. Firebase is widely used for its simplicity and integration with other Google products, making it an excellent choice for small to medium-sized applications and startups. It supports cross-platform development, including Android, iOS, and web, allowing developers to build scalable and secure applications efficiently.",
+    "full_ans_ban": "ফায়ারবেস গুগল দ্বারা উন্নত একটি বিস্তৃত অ্যাপ ডেভেলপমেন্ট প্ল্যাটফর্ম। এটি ডেভেলপারদের দ্রুত এবং সহজে উচ্চমানের অ্যাপ তৈরি করতে বিভিন্ন সরঞ্জাম এবং পরিষেবা সরবরাহ করে। ফায়ারবেস রিয়েলটাইম ডাটাবেস এবং ফায়ারস্টোরের মতো বৈশিষ্ট্য প্রদান করে যা ডেটা সংরক্ষণ এবং সিঙ্ক করার জন্য ব্যবহৃত হয়, প্রমাণীকরণের মাধ্যমে ব্যবহারকারী ব্যবস্থাপনা সহজ করে, হোস্টিং ওয়েব অ্যাপ মোতায়েন করতে সাহায্য করে এবং ক্লাউড ফাংশন ব্যাকএন্ড কোড চালানোর সুযোগ দেয়। এছাড়াও, এটি অ্যানালিটিক্স, পারফরম্যান্স মনিটরিং এবং ক্র্যাশ রিপোর্টিং টুল প্রদান করে। ফায়ারবেসের সহজতা এবং অন্যান্য গুগল পণ্যের সাথে এর সংহতির কারণে এটি ছোট থেকে মাঝারি আকারের অ্যাপ্লিকেশন এবং স্টার্টআপগুলির জন্য একটি দুর্দান্ত পছন্দ। এটি অ্যান্ড্রয়েড, আইওএস এবং ওয়েব সহ ক্রস-প্ল্যাটফর্ম ডেভেলপমেন্ট সমর্থন করে, যা ডেভেলপারদের দক্ষতার সাথে স্কেলেবল এবং সুরক্ষিত অ্যাপ তৈরি করতে সাহায্য করে।",
+    "imgs": [
+      "https://i.ibb.co.com/HTxQTwW/Firebase-2-1.png",
+      "https://i.ibb.co.com/0cPVBW2/frrr.png"
+    ],
+    "example_eng": {
+      "example_1": "Using Firebase Realtime Database to store user data.",
+      "example_2": "Implementing Firebase Authentication for login and registration."
+    },
+    "example_ban": {
+      "example_1": "ব্যবহারকারীর তথ্য সংরক্ষণ করার জন্য ফায়ারবেস রিয়েলটাইম ডাটাবেস ব্যবহার করা।",
+      "example_2": "লগইন এবং রেজিস্ট্রেশনের জন্য ফায়ারবেস প্রমাণীকরণ ব্যবহার করা।"
+    },
+    "related_q_eng": [
+      "What are Firebase's core features?",
+      "How to use Firebase with React?"
+    ],
+    "related_q_ban": [
+      "ফায়ারবেসের প্রধান বৈশিষ্ট্য কী কী?",
+      "রিয়্যাক্টের সাথে ফায়ারবেস কীভাবে ব্যবহার করবেন?"
+    ]
+  }
+  
