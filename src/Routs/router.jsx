@@ -5,6 +5,7 @@ import ErrorPage from "../Pages/ErrorPage";
 import EJP_Dashboard from "../Pages/EJP_Dashboard";
 import EJP_Ques from "../EJP/EJP_Ques";
 import AnsBox from "../EJP/AnsBox";
+import Basic from "../Basic_Section.jsx/Basic";
 
 
 
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
             {
                 path: "/",
                 element: <Home></Home>
+            },
+            {
+                path: "/basic",
+                element: <Basic></Basic>
             },
             {
                 path: "/ejp_dash",

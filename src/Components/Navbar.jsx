@@ -141,6 +141,7 @@ const Navbar = () => {
                             <div className="">
                                 <ul className="flex space-y-4  items-center justify-center flex-col">
                                     <li><NavLink className="py-1 px-3 hover:bg-purple-600 rounded-md" to={"/"}>Home</NavLink></li>
+                                    <li><NavLink className="py-1 px-3 hover:bg-purple-600 rounded-md" to={"/ejp_dash"}>EJP</NavLink></li>
                                     <li><NavLink className="py-1 px-3 hover:bg-purple-600 rounded-md" to={"/basic"}>Basic</NavLink></li>
                                     <li><NavLink className="py-1 px-3 hover:bg-purple-600 rounded-md" to={"/all-topics"}>All Topics</NavLink></li>
                                     <li><NavLink className="py-1 px-3 hover:bg-purple-600 rounded-md" to={"/tutorials"}>Tutorial</NavLink></li>
